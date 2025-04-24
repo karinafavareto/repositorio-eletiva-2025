@@ -1,7 +1,7 @@
 <?
 
-if(isset($_POST['dataNasci'])){
-    $dataNasci = $_POST['dataNasci'];
+if(isset($_POST['dataNasc'])){
+    $dataNasci = $_POST['dataNasc'];
 }
 
 ?>
